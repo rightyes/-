@@ -61,4 +61,4 @@
 此时此刻，或许你已经知道了父母究竟在让孩子学习啥？父母真正想让孩子学的是将来的保障。为了衡量这种保障，把关注点放在了分数上。其实，孩子真正应该具备的是分数背后的思考能力，自学能力。因为人生长河中能留下来的，不是知识，而是获取知识的能力。
 
 或许，读到这里，你内心已经发生了变化。我相信你已经知道该怎么做了，而且做的会很好，因为父母的爱具有伟大的力量。
-[喊了那么多年的学习，我们究竟在学习啥？（老师篇）]（https://github.com/rightyes/Everyone-can-learn-well/blob/master/about%20teacher.md）
+[喊了那么多年的学习，我们究竟在学习啥？（老师篇）]（https://github.com/rightyes/Everyone-can-learn-well/blob/master/teacher.md）
