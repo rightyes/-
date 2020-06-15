@@ -62,4 +62,4 @@
 
 或许，读到这里，你内心已经发生了变化。我相信你已经知道该怎么做了，而且做的会很好，因为父母的爱具有伟大的力量。
 
-[喊了那么多年的学习，我们究竟在学习啥？（老师篇）] （https://github.com/rightyes/Everyone-can-learn-well/blob/master/teacher.md#）
+[喊了那么多年的学习，我们究竟在学习啥？（老师篇）]（https://github.com/rightyes/Everyone-can-learn-well/blob/master/teacher.md#）
